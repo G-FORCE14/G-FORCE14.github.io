@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+a {
+  color: #7ed6df;
+}
+a:hover {
+  color: #70a1ff;
+}
+h1, h3 {
+  color: #00ffae;
+}
+img.rounded-circle {
+  border: 3px solid #00ffae;
+}
+
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #17a2b8; /* bright cyan */
+  text-decoration: underline;
+}
+
+.nav-link.fw-bold {
+  text-decoration: underline;
+}
+
